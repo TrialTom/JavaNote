@@ -1,0 +1,8 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="JavadocDeclaration" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ADDITIONAL_TAGS" value="date,description：练习,description：,description：创建一个长度是8的字符串数组,description：判断某个目录下有没有a.jpg文件,description：递归输出某个目录下所有的的java文件,description：TODO,description：发送和接收的工具类,description：接收方,description：发送方,description：三线程练习,description：客户端与服务端相互传输数据,description：服务端,description：客户端,description：客户端，上传文件到服务端,description：服务端，接收文件并保存到磁盘,description：自定义类加载器,description：测试,description：注解练习,description：创建学生对象" />
+    </inspection_tool>
+  </profile>
+</component>

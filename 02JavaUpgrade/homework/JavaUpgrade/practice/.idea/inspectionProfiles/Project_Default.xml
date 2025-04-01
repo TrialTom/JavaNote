@@ -1,0 +1,8 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="JavadocDeclaration" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ADDITIONAL_TAGS" value="description：Callalbe方式去实现多线程文件复制,date,description：字母排序,description：三线程交替打印0~75" />
+    </inspection_tool>
+  </profile>
+</component>
