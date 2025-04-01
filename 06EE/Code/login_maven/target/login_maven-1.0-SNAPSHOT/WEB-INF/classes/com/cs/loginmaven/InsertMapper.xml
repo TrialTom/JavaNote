@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!-- namespace：命名空间 -->
+<!-- namespace.id = SQL语句的坐标 -->
+<mapper namespace="com.cs.loginmaven.InsertMapper">
+    <!-- id:在当前xml文件中唯一 -->
+    <!-- resultType：写返回类型的全限定名称 -->
+    <insert id="insertUser" >
+        insert into user(username, password, email, fileName)
+        values (#{user.username}, #{user.password}, #{user.email}, #{user.fileName});
+    </insert>
+
+    <select id="checkNameByID" resultType="java.lang.String">
+        select *
+        from user
+        where id = #{id}
+    </select>
+</mapper>

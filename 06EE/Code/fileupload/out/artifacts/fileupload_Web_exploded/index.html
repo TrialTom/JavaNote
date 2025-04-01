@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!-- enctype="multipart/form-data"加上可以上传二进制类型文件，否则只能上传文本文件 -->
+<form action="/server/submit" enctype="multipart/form-data" method="post">
+    <input type="file"name="image">
+    <input type="submit">
+</form>
+</body>
+</html>

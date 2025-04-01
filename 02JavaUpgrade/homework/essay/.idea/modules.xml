@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/_01_String/_01_String.iml" filepath="$PROJECT_DIR$/_01_String/_01_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_02_Exception/_02_Exception.iml" filepath="$PROJECT_DIR$/_02_Exception/_02_Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_03_File/_03_File.iml" filepath="$PROJECT_DIR$/_03_File/_03_File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_04_thread/_04_thread.iml" filepath="$PROJECT_DIR$/_04_thread/_04_thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_05_network/_05_network.iml" filepath="$PROJECT_DIR$/_05_network/_05_network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_06_reflect/_06_reflect.iml" filepath="$PROJECT_DIR$/_06_reflect/_06_reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_07_annotation/_07_annotation.iml" filepath="$PROJECT_DIR$/_07_annotation/_07_annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_08_design/_08_design.iml" filepath="$PROJECT_DIR$/_08_design/_08_design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/essay.iml" filepath="$PROJECT_DIR$/essay.iml" />
+    </modules>
+  </component>
+</project>
